@@ -36,4 +36,5 @@ class Solution(object):
                     stack.append(node.right)
                 if node.left != None:
                     stack.append(node.left)
-        return solution
+        return solution 
+        
