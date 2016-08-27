@@ -13,3 +13,4 @@ class Solution(object):
                 return num
             if num not in duplicate_number:
                 duplicate_number.add(num)
+                
